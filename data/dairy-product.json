@@ -287,6 +287,27 @@
         "category": "Ice Cream",
         "description": "Delight in our Strawberry Ice Cream, bursting with the vibrant sweetness of real strawberries swirled in a creamy base. A refreshing and fruity favorite!"
       }
+    },
+    {
+      "id": "05f5",
+      "name": "Monika singh",
+      "email": "monika@gmail.com",
+      "phone": 7894562013,
+      "quantity": 1,
+      "address": {
+        "street": "bhopal",
+        "city": "noida",
+        "state": "Uttar Pradesh",
+        "zipCode": "201381"
+      },
+      "product": {
+        "id": "1",
+        "name": "Vanilla Ice Cream",
+        "price": 120,
+        "imageUrl": "assets/images/vanilla-ice-cream.jpg",
+        "category": "Ice Cream",
+        "description": "Classic and creamy, our Vanilla Ice Cream is made with real vanilla beans for an authentic, rich flavor. The perfect blank canvas for your favorite toppings!"
+      }
     }
   ]
 }
